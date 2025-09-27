@@ -24,3 +24,6 @@
 
 # 🎯 성능 개선
 + ##### 체크박스 기반 다중 필터 검색을 Criteria API로 최적화
+
+# ERD
+<img width="658" height="689" alt="Image" src="https://github.com/user-attachments/assets/a122ff23-50e9-4e89-8284-9c27ea004a9e" />
