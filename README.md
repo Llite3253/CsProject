@@ -27,3 +27,8 @@
 
 # ERD
 <img width="658" height="689" alt="Image" src="https://github.com/user-attachments/assets/a122ff23-50e9-4e89-8284-9c27ea004a9e" />
+
+# 시연 영상
+<p align="center">
+    <img src="https://github.com/Llite3253/CsProject/issues/2#issue-3459869476">
+</p>
