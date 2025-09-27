@@ -30,5 +30,5 @@
 
 # 시연 영상
 <p align="center">
-    <img src="https://github.com/Llite3253/CsProject/issues/2#issue-3459869476">
+    <img src="https://github.com/user-attachments/assets/9df9c14f-f529-4bfe-9751-fc7379e13c0c">
 </p>
